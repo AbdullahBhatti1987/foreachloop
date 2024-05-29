@@ -107,8 +107,6 @@ var fruits = [
 
 ];
 
-
-
 var box = document.getElementById("box");
 
 fruits.forEach(function (data, ind) {

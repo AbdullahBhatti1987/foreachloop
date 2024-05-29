@@ -147,7 +147,6 @@ header {
         width: calc(25% - 20px);
     }
 }
-
 @media (max-width: 992px) {
     .fruit {
         width: calc(33.33% - 20px);
@@ -162,6 +161,6 @@ header {
 
 @media (max-width: 576px) {
     .fruit {
-        width: calc(100% - 20px);
+        width: calc(90% - 20px);
     }
-}  
+}
